@@ -5,6 +5,18 @@
 This document lists historical Lattice firmware (HSM) releases and the corresponding changelogs.
 
 
+### [v0.18.9](https://github.com/GridPlus/lattice-software-releases/releases/tag/hsm-0.18.9)
+
+*Published October 8, 2025*
+Includes v0.18.8 notes
+
+**Features**
+* (#2748) EIP-7702 support
+* (#2749) Adds YPUB and ZPUB extended public key support for Bitcoin
+
+**Fixes**
+* (#2745) regtest support
+
 ### [v0.18.8](https://github.com/GridPlus/lattice-software-releases/releases/tag/hsm-0.18.8)
 
 *Published June 18, 2025*
